@@ -18,6 +18,22 @@
 		A452B51D177334AF00BA3661 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A452B51C177334AF00BA3661 /* Default-568h@2x.png */; };
 		A452B520177334AF00BA3661 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A452B51E177334AF00BA3661 /* MainStoryboard.storyboard */; };
 		A452B523177334AF00BA3661 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A452B522177334AF00BA3661 /* ViewController.m */; };
+		A452B539177334EA00BA3661 /* 001.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B52A177334EA00BA3661 /* 001.mp3 */; };
+		A452B53A177334EA00BA3661 /* 002.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B52B177334EA00BA3661 /* 002.mp3 */; };
+		A452B53B177334EA00BA3661 /* 003.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B52C177334EA00BA3661 /* 003.mp3 */; };
+		A452B53C177334EA00BA3661 /* 004.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B52D177334EA00BA3661 /* 004.mp3 */; };
+		A452B53D177334EA00BA3661 /* 005.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B52E177334EA00BA3661 /* 005.mp3 */; };
+		A452B53E177334EA00BA3661 /* 006.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B52F177334EA00BA3661 /* 006.mp3 */; };
+		A452B53F177334EA00BA3661 /* 007.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B530177334EA00BA3661 /* 007.mp3 */; };
+		A452B540177334EA00BA3661 /* C.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B531177334EA00BA3661 /* C.mp3 */; };
+		A452B541177334EA00BA3661 /* D.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B532177334EA00BA3661 /* D.mp3 */; };
+		A452B542177334EA00BA3661 /* E.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B533177334EA00BA3661 /* E.mp3 */; };
+		A452B543177334EA00BA3661 /* F.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B534177334EA00BA3661 /* F.mp3 */; };
+		A452B544177334EA00BA3661 /* G.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A452B535177334EA00BA3661 /* G.mp3 */; };
+		A452B545177334EA00BA3661 /* keyBackground01.png in Resources */ = {isa = PBXBuildFile; fileRef = A452B536177334EA00BA3661 /* keyBackground01.png */; };
+		A452B546177334EA00BA3661 /* keyBackground02.png in Resources */ = {isa = PBXBuildFile; fileRef = A452B537177334EA00BA3661 /* keyBackground02.png */; };
+		A452B547177334EA00BA3661 /* pianoBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = A452B538177334EA00BA3661 /* pianoBackground.png */; };
+		A452B5491773352200BA3661 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A452B5481773352200BA3661 /* AudioToolbox.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +53,22 @@
 		A452B51F177334AF00BA3661 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		A452B521177334AF00BA3661 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A452B522177334AF00BA3661 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A452B52A177334EA00BA3661 /* 001.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 001.mp3; sourceTree = "<group>"; };
+		A452B52B177334EA00BA3661 /* 002.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 002.mp3; sourceTree = "<group>"; };
+		A452B52C177334EA00BA3661 /* 003.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 003.mp3; sourceTree = "<group>"; };
+		A452B52D177334EA00BA3661 /* 004.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 004.mp3; sourceTree = "<group>"; };
+		A452B52E177334EA00BA3661 /* 005.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 005.mp3; sourceTree = "<group>"; };
+		A452B52F177334EA00BA3661 /* 006.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 006.mp3; sourceTree = "<group>"; };
+		A452B530177334EA00BA3661 /* 007.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 007.mp3; sourceTree = "<group>"; };
+		A452B531177334EA00BA3661 /* C.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = C.mp3; sourceTree = "<group>"; };
+		A452B532177334EA00BA3661 /* D.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = D.mp3; sourceTree = "<group>"; };
+		A452B533177334EA00BA3661 /* E.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = E.mp3; sourceTree = "<group>"; };
+		A452B534177334EA00BA3661 /* F.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = F.mp3; sourceTree = "<group>"; };
+		A452B535177334EA00BA3661 /* G.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = G.mp3; sourceTree = "<group>"; };
+		A452B536177334EA00BA3661 /* keyBackground01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = keyBackground01.png; sourceTree = "<group>"; };
+		A452B537177334EA00BA3661 /* keyBackground02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = keyBackground02.png; sourceTree = "<group>"; };
+		A452B538177334EA00BA3661 /* pianoBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pianoBackground.png; sourceTree = "<group>"; };
+		A452B5481773352200BA3661 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A452B5491773352200BA3661 /* AudioToolbox.framework in Frameworks */,
 				A452B507177334AF00BA3661 /* UIKit.framework in Frameworks */,
 				A452B509177334AF00BA3661 /* Foundation.framework in Frameworks */,
 				A452B50B177334AF00BA3661 /* CoreGraphics.framework in Frameworks */,
@@ -73,6 +106,7 @@
 		A452B505177334AF00BA3661 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A452B5481773352200BA3661 /* AudioToolbox.framework */,
 				A452B506177334AF00BA3661 /* UIKit.framework */,
 				A452B508177334AF00BA3661 /* Foundation.framework */,
 				A452B50A177334AF00BA3661 /* CoreGraphics.framework */,
@@ -89,6 +123,7 @@
 				A452B521177334AF00BA3661 /* ViewController.h */,
 				A452B522177334AF00BA3661 /* ViewController.m */,
 				A452B50D177334AF00BA3661 /* Supporting Files */,
+				A452B529177334CD00BA3661 /* Resource */,
 			);
 			path = piano;
 			sourceTree = "<group>";
@@ -105,6 +140,29 @@
 				A452B51C177334AF00BA3661 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A452B529177334CD00BA3661 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				A452B52A177334EA00BA3661 /* 001.mp3 */,
+				A452B52B177334EA00BA3661 /* 002.mp3 */,
+				A452B52C177334EA00BA3661 /* 003.mp3 */,
+				A452B52D177334EA00BA3661 /* 004.mp3 */,
+				A452B52E177334EA00BA3661 /* 005.mp3 */,
+				A452B52F177334EA00BA3661 /* 006.mp3 */,
+				A452B530177334EA00BA3661 /* 007.mp3 */,
+				A452B531177334EA00BA3661 /* C.mp3 */,
+				A452B532177334EA00BA3661 /* D.mp3 */,
+				A452B533177334EA00BA3661 /* E.mp3 */,
+				A452B534177334EA00BA3661 /* F.mp3 */,
+				A452B535177334EA00BA3661 /* G.mp3 */,
+				A452B536177334EA00BA3661 /* keyBackground01.png */,
+				A452B537177334EA00BA3661 /* keyBackground02.png */,
+				A452B538177334EA00BA3661 /* pianoBackground.png */,
+			);
+			name = Resource;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +221,21 @@
 				A452B51B177334AF00BA3661 /* Default@2x.png in Resources */,
 				A452B51D177334AF00BA3661 /* Default-568h@2x.png in Resources */,
 				A452B520177334AF00BA3661 /* MainStoryboard.storyboard in Resources */,
+				A452B539177334EA00BA3661 /* 001.mp3 in Resources */,
+				A452B53A177334EA00BA3661 /* 002.mp3 in Resources */,
+				A452B53B177334EA00BA3661 /* 003.mp3 in Resources */,
+				A452B53C177334EA00BA3661 /* 004.mp3 in Resources */,
+				A452B53D177334EA00BA3661 /* 005.mp3 in Resources */,
+				A452B53E177334EA00BA3661 /* 006.mp3 in Resources */,
+				A452B53F177334EA00BA3661 /* 007.mp3 in Resources */,
+				A452B540177334EA00BA3661 /* C.mp3 in Resources */,
+				A452B541177334EA00BA3661 /* D.mp3 in Resources */,
+				A452B542177334EA00BA3661 /* E.mp3 in Resources */,
+				A452B543177334EA00BA3661 /* F.mp3 in Resources */,
+				A452B544177334EA00BA3661 /* G.mp3 in Resources */,
+				A452B545177334EA00BA3661 /* keyBackground01.png in Resources */,
+				A452B546177334EA00BA3661 /* keyBackground02.png in Resources */,
+				A452B547177334EA00BA3661 /* pianoBackground.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
